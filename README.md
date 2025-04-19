@@ -1,10 +1,10 @@
 <div align="center">
 
-<a href="https://github.com/null2264/yokai">
-    <img src="./.github/readme-images/app-icon.webp" alt="Yokai logo" height="200px" width="200px" />
+<a href="https://github.com/ClaireX-beta/shuo">
+    <img src="./.github/readme-images/app-icon-shuo.png" alt="Shuo logo" height="200px" width="200px" />
 </a>
 
-# Yōkai
+# Shuo
 
 </div>
 
