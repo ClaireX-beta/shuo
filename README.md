@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://github.com/ClaireX-beta/shuo">
-    <img src="./.github/readme-images/app-icon-shuo.png" alt="Shuo logo" height="200px" width="200px" />
+    <img src="./.github/readme-images/app-icon-shuo.svg" alt="Shuo logo" height="200px" width="200px" />
 </a>
 
 # Shuo
