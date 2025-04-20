@@ -574,7 +574,7 @@ The format is simplified version of [Keep a Changelog](https://keepachangelog.co
 
 ### Fixes
 - Fixed cutout behaviour for Android P
-- Fixed some extensions doesn't detect "added to library" entries properly ([GH-40](https://github.com/null2264/yokai/issues/40))
+- Fixed some extensions doesn't detect "added to library" entries properly ([GH-40](https://github.com/ClaireX-beta/shuo/issues/40))
 - Fixed nightly and debug variant doesn't include their respective prefix on their app name
 - Fixed nightly version checker
 

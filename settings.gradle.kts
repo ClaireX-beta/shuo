@@ -29,7 +29,7 @@ dependencyResolutionManagement {
 
 enableFeaturePreview("TYPESAFE_PROJECT_ACCESSORS")
 
-rootProject.name = "Yokai"
+rootProject.name = "Shuo"
 include(":app")
 include(":core:archive")
 include(":core:main")
